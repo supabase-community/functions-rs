@@ -1,0 +1,16 @@
+[package]
+name = "functions-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Murat Mirgun Ercan <muratmirgunercan@gmail.com>"]
+description = "Rust client library to interact with Supabase Functions"
+homepage = "https://github.com/supabase-community/functions-rs"
+repository = "https://github.com/supabase-community/functions-rs"
+readme = "README.md"
+license = "Apache-2.0"
+keywords = ["functions", "supabase", "rust", "client"]
+categories = ["development-tools"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
